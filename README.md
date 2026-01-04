@@ -22,13 +22,20 @@
     </td>
   </tr>
 </table>
->
 
+<br/>
 
+<h2 align="center">GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DITTBRUKERNAVN&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DITTBRUKERNAVN&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oddvar112&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddvar112&layout=compact&theme=tokyonight" />
+</p>
 
-![Snake animation](https://github.com/DITTBRUKERNAVN/DITTBRUKERNAVN/blob/output/github-contribution-grid-snake.svg)
+<br/>
 
+<h2 align="center">GitHub History</h2>
 
+<p align="center">
+  <img src="https://github.com/oddvar112/oddvar112/blob/output/github-contribution-grid-snake.svg" />
+</p>
