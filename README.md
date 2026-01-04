@@ -1,6 +1,5 @@
 <table>
   <tr>
-    <!-- VENSTRE: TOOLS -->
     <td width="50%" valign="top">
       <h2>Tools & Tech Stuff</h2>
       <p>
@@ -16,7 +15,6 @@
       </p>
     </td>
 
-    <!-- HØYRE: GIF -->
     <td width="50%" align="center">
       <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="300"/>
     </td>
