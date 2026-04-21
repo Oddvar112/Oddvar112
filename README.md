@@ -1,13 +1,16 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hei+der!;Velkommen+til+min+GitHub" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Oddvar%20Folkestad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20utvikler&descSize=20&descAlignY=60" alt="header" />
+  <img src="https://komarev.com/ghpvc/?username=Oddvar112&label=Profilvisninger&color=58A6FF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Oddvar112?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="followers" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oddvar112&label=Profilvisninger&color=58A6FF&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Oddvar112?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="followers" />
-  <a href="https://www.linkedin.com/in/oddvar-folkestad/"><img src="https://img.shields.io/badge/Oddvar%20Folkestad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hanev.hanevik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Oddvar112"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/oddvar-folkestad/"><img src="https://img.shields.io/badge/Oddvar%20Folkestad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hanev.hanevik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Oddvar112"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
@@ -65,20 +68,28 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## GitHub Metrics
+## GitHub Statistikk
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Oddvar112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=20" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oddvar112&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=20" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oddvar112&theme=tokyonight&hide_border=true&border_radius=20" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oddvar112&theme=tokyo-night&hide_border=true&area=true&radius=20" alt="activity graph" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## Bidragsslange
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Oddvar112/Oddvar112/output/github-snake-dark.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oddvar112/Oddvar112/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oddvar112/Oddvar112/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Oddvar112/Oddvar112/output/github-snake.svg" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=100&section=footer" alt="footer" />
-</p>
