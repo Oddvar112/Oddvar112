@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oddvar112&label=Profilvisninger&color=58A6FF&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Oddvar112?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FOddvar112&query=%24.stars&label=Stars&style=for-the-badge&color=58A6FF&logo=github" alt="total stars" />
 </p>
 
 <p align="center">
