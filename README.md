@@ -21,6 +21,15 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
+## 2 eksempler på deployerte prosjekter
+
+<p align="center">
+  <a href="https://kvasirsbrygg.no"><img src="https://img.shields.io/badge/Kvasirs%20Brygg-1f6feb?style=for-the-badge&logo=earth&logoColor=white" alt="Kvasirs Brygg" /></a>
+  <a href="https://hanevikbringebær.no"><img src="https://img.shields.io/badge/Hanevik%20Bringebær-d946ef?style=for-the-badge&logo=earth&logoColor=white" alt="Hanevik Bringebær" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
 ## Tech Stack
 
 <table align="center">
